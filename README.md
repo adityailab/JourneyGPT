@@ -54,8 +54,8 @@ By combining the power of localized LLM inference with dynamic function executio
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rajdip-i/journeygpt.git
-   cd journeygpt
+   git clone https://github.com/adityailab/JourneyGPT.git
+   cd JourneyGPT
    ```
 2. Install dependencies:
   
